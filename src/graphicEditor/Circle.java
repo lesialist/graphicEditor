@@ -1,4 +1,4 @@
-package GraphicEditor;
+package graphicEditor;
 
 public class Circle extends Shape {
     private String name;
