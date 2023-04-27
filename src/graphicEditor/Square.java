@@ -1,6 +1,6 @@
 package GraphicEditor;
 
-public class Square extends Shape{
+public class Square extends Shape {
     public double getSide() {
         return side;
     }
