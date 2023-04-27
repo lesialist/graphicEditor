@@ -1,6 +1,6 @@
 package GraphicEditor;
 
-public class Pentagon extends Shape{
+public class Pentagon extends Shape {
     private double sideA;
     private double sideB;
     private double sideC;
