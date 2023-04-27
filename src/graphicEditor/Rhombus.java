@@ -1,6 +1,6 @@
 package GraphicEditor;
 
-public class Rhombus extends Shape{
+public class Rhombus extends Shape {
 
     private double sideLength;
     private double angle;
