@@ -1,6 +1,6 @@
 package GraphicEditor;
 
-public class Circle extends Shape{
+public class Circle extends Shape {
     private String name;
     private double radius;
     private static final double PI = 3.14159;
