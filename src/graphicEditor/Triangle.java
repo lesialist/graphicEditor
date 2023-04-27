@@ -1,6 +1,6 @@
 package GraphicEditor;
 
-public class Triangle extends Shape{
+public class Triangle extends Shape {
     private double sideA;
     private double sideB;
 
