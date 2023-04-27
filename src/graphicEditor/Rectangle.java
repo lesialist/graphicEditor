@@ -1,4 +1,4 @@
-package GraphicEditor;
+package graphicEditor;
 
 public class Rectangle extends Shape {
 
