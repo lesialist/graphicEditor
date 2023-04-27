@@ -1,4 +1,4 @@
-package GraphicEditor;
+package graphicEditor;
 
 public class Pentagon extends Shape {
     private double sideA;
