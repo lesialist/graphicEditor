@@ -1,4 +1,4 @@
-package GraphicEditor;
+package graphicEditor;
 
 public abstract class Shape {
     private String name;
