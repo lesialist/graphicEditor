@@ -1,4 +1,4 @@
-package GraphicEditor;
+package graphicEditor;
 
 public class Triangle extends Shape {
     private double sideA;
