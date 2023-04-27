@@ -1,4 +1,4 @@
-package GraphicEditor;
+package graphicEditor;
 
 public class Square extends Shape {
     public double getSide() {
